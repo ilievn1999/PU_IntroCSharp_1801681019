@@ -10,7 +10,7 @@ namespace MusicFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Play some music...");
+            Console.WriteLine("Play some music..");
         }
     }
 }
